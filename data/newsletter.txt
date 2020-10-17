@@ -1,0 +1,22 @@
+Welcome to the Apache CloudStack Weekly update
+
+Announcements
+-------------
+
+This is the first Newsletter
+
+
+New Features In Developement
+-----------------------------
+
+WORK_IN_PROGRESS
+
+New Features in Next Release
+----------------------------
+
+NEW_FEATURES_MERGED
+
+Bug Fixes Merged
+----------------
+
+BUGS_FIXED
